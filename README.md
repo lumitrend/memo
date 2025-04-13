@@ -29,3 +29,7 @@ magnet:?xt=urn:btih:38b8107acb7ac32a993e002d21a66b0fecc3e4d5
 可是我们发现社会中的差距依然有四百年   
 而现实的差距又将同时代的中国人   
 分裂到不同的时代里去了   
+## 百度SEO推送
+```curl
+curl -H 'Content-Type:text/plain' --data-binary @urls.txt "http://data.zz.baidu.com/urls?site=https://www.domain.com&token=your token"
+```
