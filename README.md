@@ -70,4 +70,15 @@ https://www.npmjs.com/package/vitepress-plugin-twitter-card
 imageassistant Firefox扩展
 picviewer ce+ 油猴  
 
-##  其他  
+##  NewsApi
+
+newsapi.org keys:**`7294ac72790c46abb96cf50cd1164ba2`**  
+
+https://newsapi.org/v2/top-headlines?country=cn&apiKey=7294ac72790c46abb96cf50cd1164ba2  
+
+```curl
+curl 
+curl https://newsapi.org/v2/top-headlines -G \
+    -d country=cn \
+    -d apiKey=7294ac72790c46abb96cf50cd1164ba2
+```
