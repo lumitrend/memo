@@ -1,0 +1,11 @@
+WordPress版本:6.7.2  
+Nginx版本:1.26  
+PHP版本:8.1，8.2，8.3  
+MySQL版本:8.0  
+PHP扩展:https://make.wordpress.org/hosting/handbook/server-environment/#php-extensions  
+https://www.wpdaxue.com/15-wordpress-wp-config-configuration-codes.html  
+缓存，后台，CDN，OSS，插件，robots，sitemap，美化界面  
+https://cn.wordpress.org/plugins/wicked-folders/  
+https://zmingcx.lanzoul.com/ixeU72enygoj  
+缓存头:
+cache-control, expires, age, last-modified, etag, x-cache-enabled, x-cache-disabled, x-srcache-store-status, x-srcache-fetch-status
